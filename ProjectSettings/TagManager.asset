@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Spawner
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - PP
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3322969019
+    locked: 0
+  - name: MG
+    uniqueID: 3808450587
+    locked: 0
+  - name: FG
+    uniqueID: 1516465869
+    locked: 0
+  - name: trees
+    uniqueID: 3413419251
+    locked: 0
+  - name: tiles
+    uniqueID: 1235629037
+    locked: 0
+  - name: player
+    uniqueID: 2847968395
+    locked: 0
+  - name: cinematic
+    uniqueID: 269546231
+    locked: 0
