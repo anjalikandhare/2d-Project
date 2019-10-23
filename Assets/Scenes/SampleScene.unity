@@ -8806,9 +8806,9 @@ MonoBehaviour:
   dialogue:
     name: Wzard
     sentences:
-    - You Filthy Scum How Dare You Come Here
-    - I Shall Curse this world With Darkness
-    - I Shall Curse this world With Darkness
+    - You Filthy Scum How Dare You Come Hereaaaaaaaaa
+    - aaaaasdasdaaaaaaaaaaaa
+    - adsadsad
 --- !u!4 &2125120804
 Transform:
   m_ObjectHideFlags: 0
